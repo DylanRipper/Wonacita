@@ -3,14 +3,14 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <a href="https://github.com/alta-be4-andri/Project-2">
+  <a href="https://github.com/DylanRipper/Wonacita">
     <img src="image/wonacita.jpg" alt="Logo" width="700" height="350">
   </a>
 
-  <h3 align="center">Project "RENTZ.ID" Rent Product App </h3>
+  <h3 align="center">Project Wonacita "Wonderful Nawacita" Insta App </h3>
 
   <p align="center">
-    Projek Capstone Pembangunan RESTful API Program Immersive Back End Batch 4
+    Projek Pembangunan RESTful API Aplikasi Wonacita
     <br />
     <a href="https://github.com/alta-rentz/rentz-be"><strong>Kunjungi kami »</strong></a>
     <br />
@@ -51,7 +51,7 @@ Wonacita merupakan aplikasi untuk mendukung program pemerintah "nawacita" yang b
 
 <details>
 <summary>Toolbar</summary>
-<img src="image/Toolbar.jpg">
+<img src="image/toolbar.jpg">
 </details>
 
 <details>
@@ -67,15 +67,9 @@ Wonacita merupakan aplikasi untuk mendukung program pemerintah "nawacita" yang b
 <!-- CONTACT -->
 ### Contact
 
-[![Gmail: Alfy](https://img.shields.io/badge/-Alfy-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjmjRlSpLttDDmhqnRQTQVTSQCjFvQxCSSqGDHvQjrjJvvzKMvnlWTrWwkcGdSzfJPXnV)
-[![GitHub Alfy](https://img.shields.io/badge/-Alfy-white?style=flat&logo=github&logoColor=black)](https://github.com/alfiancikoa)
-
-[![Gmail: Andri](https://img.shields.io/badge/-Andri-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWslzCnrLrhrlnrRWdpHqsBmRtbbtZSKxXFrdGHmhLVLjLDmVfNRxdBShrxQNTBBHFgDdLfKQ)
-[![GitHub Andri](https://img.shields.io/badge/-Andri-white?style=flat&logo=github&logoColor=black)](https://github.com/DylanRipper)
-
 [![Gmail: Fafa](https://img.shields.io/badge/-Fafa-maroon?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWslzCnrLrhrlnrRWdpHqsBmRtbbtZSKxXFrdGHmhLVLjLDmVfNRxdBShrxQNTBBHFgDdLfKQ)
 [![GitHub FAfa](https://img.shields.io/badge/-Fafa-white?style=flat&logo=github&logoColor=black)](https://github.com/DylanRipper)
 
 
-<p align="center">:copyright: 2021 | AAF</p>
+<p align="center">:copyright: 2021 | FAFA</p>
 </h3>
