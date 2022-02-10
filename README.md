@@ -1,4 +1,4 @@
-# RENTZ.ID
+# WONACITA
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <br/>
